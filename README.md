@@ -2,6 +2,6 @@
 
 A very poorly designed javascript game. Don't take too seriously... was checking out the potential of game dev with javascript.
 
-<a href="http://brettmccaffray.com/git/crappy-airplane-game/" target="_blank">DEMO</a><br/>
+<a href="http://brettmccaffray.com/gitex/crappy-airplane-game/" target="_blank">DEMO</a><br/>
 move - W, A, S, D<br/>
 shoot - SPACE
