@@ -1,6 +1,7 @@
 <h1>crappy-airplane-game</h1>
 
-A very poorly designed javascript game. Wanted to check out potential game dev with javascript.
+A very poorly designed javascript game. Don't take too seriously... was checking out the potential of game dev with javascript.
 
-DEMO coming soon
-<!--<a href="">DEMO</a>-->
+<!--<a href="http://brettmccaffray.com/git/crappy-airplane-game/">DEMO</a>-->
+move - W, A, S, D
+shoot - SPACE
